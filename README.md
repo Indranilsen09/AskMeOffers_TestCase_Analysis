@@ -37,7 +37,10 @@ This is one of the Testcase out of the Whole Testcase Sheet. In this Testcase An
 
 <br>  
 
-<img src="https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/52b5cc2c-58ec-4d1b-b594-6d7c75ef2d01" alt ="View It Live" width="50" height="50" align="left"> [View it Live](https://indranilsen09.github.io/AskMeOffers_TestCase_Analysis/testcases.html)
+<img src="https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/52b5cc2c-58ec-4d1b-b594-6d7c75ef2d01" alt ="View It Live" width="50" height="50" align="left"> [View it Live](https://indranilsen09.github.io/AskMeOffers_TestCase_Analysis/testcases.html)  
+
+### Download it from Below
+<img src="https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/52b5cc2c-58ec-4d1b-b594-6d7c75ef2d01" alt ="View It Live" width="50" height="50" align="left"> [Download](https://raw.githubusercontent.com/Indranilsen09/AskMeOffers_TestCase_Analysis/main/AskMeOfferExtension_TestCaseSheet_and_Analytics_Report.ods)
 
 
 
