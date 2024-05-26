@@ -14,7 +14,7 @@ Please note you need to install on Desktop/Laptop devices as on mobile devices c
 
 
 ## Test Cases for AskMeOffer Chrome Extension
-[TestCase Sheet](https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/31370784-ab2d-4d26-8864-b9868e955b67)
+![TestCase Sheet](https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/31370784-ab2d-4d26-8864-b9868e955b67)
 
 [View the test cases here](https://docs.google.com/spreadsheets/d/1OEtJxfjw959P2ZroYLA0mI5V0UKXiENmVMEr7ZG5WPE/edit?usp=sharing)
 
