@@ -1,8 +1,8 @@
 <h1 align="center">AskMeOffers Automatic Coupons</h1>  
-<div style="text-align:center">
-    <img src="https://raw.githubusercontent.com/Indranilsen09/AskMeOffers_TestCase_Analysis/main/askmeofferlogo.jpeg" alt="logo" width="100" height="100">
-</div>  
-<h3 align = "center"> TestCase Development & Analysis Report </h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Indranilsen09/AskMeOffers_TestCase_Analysis/main/askmeofferlogo.jpeg" alt="logo" width="100" height="100" align="center">
+</p>
+<h2 align = "left"> TestCase Development & Analysis Report </h2>
 
 ## What is "AskMeOffers Automatic Coupon" Chrome Extension?
 -  "AskMeOffers Automatic Coupons" Chrome Extension project. This tool is designed to enhance online shopping experiences by automatically applying coupon codes at checkout.
