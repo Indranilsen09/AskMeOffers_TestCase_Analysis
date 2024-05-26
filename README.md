@@ -11,6 +11,7 @@ This repository contains the source code and test cases for the AskMeOffer Chrom
 
 or
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7md8PXAW5gGIMAp39SA7fDD84qwQEHox4kldcvB3pwKEns4Ye3hY5K_xGHEHdPScJfVIYV4qE5R5x/pubhtml?widget=true&amp;headers=false"></iframe>
+[View the test cases here](testcases.html)
+
 
 
