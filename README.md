@@ -7,14 +7,26 @@
 - Experience the full potential of the extension by visiting Kapiva Simply visit kapiva.in, add any item to your cart, and proceed to checkout. No need to pay ( and see how this extension auto applies) .
 If you're looking to save on your day-to-day shopping experiences, feel free to keep using it.
 
-### Extension Installation:
-- Please visit and Add the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/askmeoffers-automatic-cou/kmklnaljhcfcancckobnbafdhkbigfkk)
-- To install, just open the link above and click on the **"Add to Chrome"** thats all.
-Please note you need to install on Desktop/Laptop devices as on mobile devices chrome extension is not supported.
-
+## Purpose:
+  I have applied for a Software Tester role at AskMeOffers. As part of the application process, I was given an assessment to write test cases for their AskMeOffers Chrome Extension. This repository contains my detailed test cases, demonstrating my ability to thoroughly test and ensure the quality of the extension.
 
 ## Test Cases for AskMeOffer Chrome Extension
-![TestCase Sheet](https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/31370784-ab2d-4d26-8864-b9868e955b67)
+This is one of the Testcase out of the Whole Testcase Sheet. In this Testcase Analysis Sheet I have Discussed about the following. <br>
+<u>_Attributes in Respected Collumns are as followings_ </u>
+- **Status** :               _It States whether it passed the test or not_ 
+- **TestCases** :            _It is an arbitary number and Sequential Number in order keep testcase in order_
+- **TestCase Description** : _It is a Short Summary so that StakeHolders can get a context of the testing_
+- **Functionality Test** :   _It states which feature/functionality of the Application is under test execution_
+- **Testcase Summary** :     _Short Description of the Test Execution for the Testers to Setup the Test Environment for Test Executions_
+- **Test Steps**:            _It says the Steps to follow in order to Reproduce the particular test, its for Testers & Developers_
+- **Testing(M/A)**:          _feasibility for Automation, where M = Manual & A = Automation, Also it states what Exclusively to test in Respected Steps_
+- **Screenshots**:           _Screenshots are taken in Corresponding Steps and are attached in docs with Link provided_
+- **Remarks/Suggestions**:   _Remarks & Suggestions are those Advices we can change in particular pages (Specific to Devs)_
+- **Testing Strategies** :   _Testing Strategies are the for Automation Testers to Setup Test Environment_
+
+<u> **Preview** </u> <br>  
+![TestCase Sheet](https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/1959c17c-e7da-4ba4-b29c-678273dd1ce4)
+
 
 [View the test cases here](https://docs.google.com/spreadsheets/d/1OEtJxfjw959P2ZroYLA0mI5V0UKXiENmVMEr7ZG5WPE/edit?usp=sharing)
 
