@@ -1,4 +1,5 @@
-# <h1 align = "center"> AskMeOffers Automatic Coupons  </h1>
+<h1 align="center">AskMeOffers Automatic Coupons</h1>  
+<img src="https://github.com/Indranilsen09/AskMeOffers_TestCase_Analysis/assets/126322554/f9805173-b37c-4bbd-9abb-69cf02987adc" alt="logo" width="100" height="100" align="center">
 <h3 align = "center"> TestCase Development & Analysis Report </h3>
 
 ## What is "AskMeOffers Automatic Coupon" Chrome Extension?
